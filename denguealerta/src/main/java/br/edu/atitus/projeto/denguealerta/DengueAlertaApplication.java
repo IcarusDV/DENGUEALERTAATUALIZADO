@@ -6,8 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class DengueAlertaApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(DengueAlertaApplication.class, args);
-	}
-
+    public static void main(String[] args) {
+        SpringApplication.run(DengueAlertaApplication.class, args);
+    }
 }
